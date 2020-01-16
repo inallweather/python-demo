@@ -1,0 +1,7 @@
+.
+..
+.DS_Store
+.git
+chat_client.py
+chat_server.py
+log.txt
